@@ -1,0 +1,50 @@
+<resources>
+    <string name="app_name">FUDISA</string>
+    <!--OPCIONES MAIN MENU-->
+    <string name="label_sales">Ventas</string>
+    <string name="label_inventory">Inventario</string>
+    <string name="label_income">Ingreso</string>
+    <string name="label_supplier">Proveedor</string>
+    <string name="label_other">Otros</string>
+    <string name="label_logout">Cerrar Sesión</string>
+    <!--LABEL APP-->
+    <string name="code">Código</string>
+    <string name="name">Nombre</string>
+    <string name="back">Regresar</string>
+    <string name="save">Guardar</string>
+    <!--OTROS-->
+    <string name="empty" />
+    <string name="confirmation">Confirmación</string>
+    <string name="sms_confirmation_save">¿Estás seguro de guardar los datos ?</string>
+    <string name="sms_delete_save">¿Estás seguro de eliminar los datos ?</string>
+    <string name="sms_logout_confirmation">¿Estás seguro de cerrar sesión ?</string>
+    <string name="yes">Sí</string>
+    <string name="no">No</string>
+    <string name="register_save">Registro guardado</string>
+    <string name="register_delete">Registro eliminado</string>
+    <string name="register_update">Registro actualizado</string>
+    <string name="processing">Procesando....</string>
+    <string name="error">Error: %1$s</string>
+    <string name="complete_field">Complete los campos</string>
+    <string name="add">Agregar</string>
+    <string name="code_label">Código: %1$s</string>
+    <string name="name_label">Nombre: %1$s</string>
+    <string name="description_label">Descripción: %1$s</string>
+    <string name="pvp_label">Precio: $ %1$s</string>
+    <string name="quantity_label">Disponible: %1$s</string>
+    <string name="select_option">Seleccione una opción</string>
+    <string name="update">Modificar</string>
+    <string name="search_elipse">Buscar...</string>
+    <string name="search">Buscar</string>
+    <string name="clear_search">Limpiar búsqueda</string>
+    <string name="supplier_list">Lista de proveedores</string>
+    <string name="delete">Eliminar</string>
+    <string name="accept">Aceptar</string>
+    <string name="cancel">Cancelar</string>
+    <string name="fudisa_distribuidora_title">FUDISA DISTRIBUIDORA</string>
+    <string name="selection">Seleccione</string>
+    <string name="dropdown_arrow">Dropdown Arrow</string>
+    <string name="email">Correo</string>
+    <string name="password">Contraseña</string>
+    <string name="ivalid_credential">Credenciales no validas</string>
+</resources>
